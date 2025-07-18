@@ -28,7 +28,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Rogue-Sensei-Dev/Quizzy-App.git
-   cd quizzy
+   cd Quizzy-App
    ```
 
 2. **Install dependencies:**
