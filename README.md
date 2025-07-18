@@ -50,7 +50,7 @@
 ## 📁 Project Structure
 
 ```
-quizzy/
+Quizzy-App/
 ├── main.py
 ├── data.py
 ├── question_model.py
